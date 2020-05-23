@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	box-sizing: border-box;
+	height: 100%
+	width:100&;
+/*	background-image: linear-gradient(red, yellow);*/
+}
+body{
+    background-image: linear-gradient(to right, red , yellow);
+}
+#background{
+	padding: 30px;
+	text-align: center;
+}
+#header{
+	text-transform: uppercase;
+	text-align: center;
+	font-style: sans-serif;
+	font-size: 60px;
+	letter-spacing: .5em;
+	opacity: 0.7;
+	padding: 10px;
+
+	}
+h2{
+    text-transform: uppercase;
+	text-align: center;	
+	font-size: 30px;
+	font-style: sans-serif;
+	letter-spacing: 0.01em;
+    	opacity: 0.7;
+    	padding: 10px;
+}
